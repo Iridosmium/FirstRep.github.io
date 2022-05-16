@@ -4,4 +4,4 @@
 Мой первый сайт ДЗ
   
   
-  [Урок12](L12/ThirdSite.html "Урок12")
+  [Урок12](https://iridosmium.github.io/FirstRep.github.io/ "Урок12")
